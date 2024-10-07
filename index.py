@@ -1,5 +1,5 @@
 # code
-#  *Fibonacci Series Python Code 
+
 # Function to generate Fibonacci series up to n terms
 def fibonacci(n):
     # Initialize Fibonacci series with first two terms
