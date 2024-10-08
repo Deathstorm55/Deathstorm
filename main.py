@@ -19,5 +19,5 @@ while program_counter < class_size:
     print("Program Counter:", program_counter)
 
 # Print final message when program counter reaches class size
-print(f"Program Counter stopped at {class_size}")
+print("Program Counter stopped at", class_size)
 
