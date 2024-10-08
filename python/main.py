@@ -1,5 +1,4 @@
-
-# Program Counter that increases dynamically to the absolute number of your class
+#Program Counter that increases dynamically to the absolute number of your class
 
 # Define class size
 class_size = int(input("Enter your class size: "))
@@ -20,4 +19,3 @@ while program_counter < class_size:
 
 # Print final message when program counter reaches class size
 print("Program Counter stopped at", class_size)
-
